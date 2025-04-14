@@ -1,6 +1,6 @@
 # Bidirectional ClickHouse & Flat File Ingestion Tool
 
-A web-based application to facilitate **bidirectional data ingestion** between a ClickHouse database and flat file (CSV/TSV) systems. The tool offers a simple yet powerful UI to manage connections, select columns, perform ingestion, and monitor the entire process in real time.
+A web-based application to facilitate **bidirectional data ingestion** between a ClickHouse database and flat file (CSV) systems. The tool offers a simple yet powerful UI to manage connections, select columns, perform ingestion, and monitor the entire process in real time.
 
 ---
 
