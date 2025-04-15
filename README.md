@@ -7,7 +7,7 @@ A web-based application to facilitate **bidirectional data ingestion** between a
 ## 📁 Project Structure
 
 ```
-project-root/
+clickhouse-ingest/
 ├── backend/                    # Backend logic (Python-based)
 │   ├── main.py                # Main API and ingestion logic
 │   ├── requirements.txt       # Python dependencies
